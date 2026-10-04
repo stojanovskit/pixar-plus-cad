@@ -1,8 +1,10 @@
 # Pixar Plus Print & Copy Studio — CAD
 
+**[Отвори ја апликацијата](https://stojanovskit.github.io/pixar-plus-cad/)**
+
 Брендирана веб CAD апликација со оригиналното лого, мобилни алатки, DXF/DWG, леери, Move/Rotate и PDF/SVG Plot.
 
-## GitHub Pages
+## Поставување сопствена копија на GitHub Pages
 
 1. Создај нов Public репозиториум `pixar-plus-cad` во твојата GitHub сметка.
 2. Качи ја целата содржина на папката `pixar-plus-cad/` од овој ZIP во коренот на репозиториумот. Качи ги и `.github/workflows/pages.yml` и `.nojekyll`. Не го качувај ZIP-от како единствен фајл.
